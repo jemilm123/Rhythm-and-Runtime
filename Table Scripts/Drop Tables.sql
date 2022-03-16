@@ -1,0 +1,11 @@
+DROP TABLE orders_items;
+DROP TABLE orders;
+DROP TABLE movies;
+DROP TABLE music;
+DROP TABLE prices;
+DROP TABLE inventory;
+DROP TABLE products;
+DROP TABLE products_subclasses;
+DROP TABLE types;
+DROP TABLE users;
+DROP TABLE address_info;
